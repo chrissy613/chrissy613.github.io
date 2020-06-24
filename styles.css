@@ -1,0 +1,21 @@
+h1 {
+    color:#eee;
+    text-align: center;
+    padding: 20px;
+    margin:0;
+    margin-bottom:20px;
+    font-size:28px;
+    background: #333;
+}
+#styledImage {
+    border: 10px solid orange;
+}
+li {
+    color:red;
+}
+p {
+    font-family: cursive;
+}
+h2{
+    color:green;
+}
